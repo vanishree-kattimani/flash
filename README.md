@@ -1,2 +1,3 @@
 # flash
-Creating New Nepository
+Creating  a New Repository
+Added HTML, CSS, and js files to the Repository
